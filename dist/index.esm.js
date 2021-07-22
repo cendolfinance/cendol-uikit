@@ -2213,10 +2213,10 @@ var socials = [
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
-            {
-                label: "announcement",
-                href: "https://t.me/cendolfinance",
-            },
+            // {
+            //     label: "announcement",
+            //     href: "https://t.me/cendolfinance",
+            // },
             {
                 label: "English",
                 href: "https://t.me/cendol_finance",
